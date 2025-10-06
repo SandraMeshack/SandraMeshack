@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraMeshack
 - 👀 I’m interested in Technical Writing and Machine Learning/ Spiking Astrocyte Neuron Network
-- 📫 How to reach me meshacksandra@gmail.com or http://sandrameshack.github.io
+- 📫 How to reach me http://sandrameshack.github.io
 
 <!---
 SandraMeshack/SandraMeshack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
